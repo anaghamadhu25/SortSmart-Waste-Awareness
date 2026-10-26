@@ -20,7 +20,7 @@ SortSmart is a web application designed to promote proper household waste segreg
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/SortSmart-Waste-Awareness.git](https://github.com/YOUR_GITHUB_USERNAME/SortSmart-Waste-Awareness.git)
+   git clone [https://github.com/anaghamadhu25/SortSmart-Waste-Awareness.git]
    cd SortSmart-Waste-Awareness
 2. **Install required dependencies:**
     ```bash
